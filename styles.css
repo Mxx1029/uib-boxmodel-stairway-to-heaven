@@ -49,7 +49,7 @@
     background-color: #ffffff;
 }
 
-.box1-2-outer {
+.box1-2-wrapper {
     color: #ff0000;
 }
 
@@ -60,7 +60,7 @@
     border: 5px solid #ff5e00;
 }
 
-.box2-2-outer {
+.box2-2-wrapper {
     padding-left: 100px;
     margin-right: 200px;
     background-color: #ff0000;
@@ -73,7 +73,7 @@
     border: 5px solid #ff5e00;
 }
 
-.box3-2-outer {
+.box3-2-wrapper {
     padding-left: 200px;
     margin-right: 100px;
     background-color: #ff0000;
@@ -86,7 +86,7 @@
     border: 5px solid #ff5e00;
 }
 
-.box4-2-outer {
+.box4-2-wrapper {
     padding-left: 300px;
     background-color: #ff0000;
 }
